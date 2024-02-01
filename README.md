@@ -31,6 +31,11 @@ The project uses hardware like Nvidia RTX 3080 and software including Rhinoceros
 4. Custom Trained Model LoRA: https://1drv.ms/u/s!AnfY20aNHR6Zpbtmuh9cANSiI-CYgQ?e=P1hdhK
 
 
+---
+
+LoRA Parameters:
+- Runs with SDXL
+
 - Positive Prompt: ink circle, flawless and stark, centered on a pristine canvas, surrounded by a chaotic dance of black and white splatters. This imagery evokes a striking contrast between order and disorder, the circle's perfect form clashing with the wild, unpredictable splashes around it. The monochromatic palette enhances the dramatic interplay of shapes and textures, inviting a deeper reflection on the balance between harmony and turmoil. This composition, with its bold simplicity and complex emotions, captures a moment frozen in time, where every splatter tells a story of spontaneous movement, creating a compelling, visually arresting piece that resonates with the viewer's inner thoughts and feelings. <lora:arlo:1>
 
 - Negative prompt: Default 
