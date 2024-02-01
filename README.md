@@ -3,23 +3,32 @@
 ### Overview
 "AI-Enhanced Real-time Algorithm for Streamlined Rendering in a 3D Modeling Workflow (AIR STREaM)" is a groundbreaking project by Samarth Reddy at OCAD University, exploring the integration of artificial intelligence in digital design and 3D modeling. This project delves into various AI platforms, models, and APIs across text, image, and audio domains to enhance 3D modeling and rendering processes, making them more efficient and creative.
 
+---
+
 ### Objectives
 - Explore AI platforms for digital design.
 - Investigate AI models/UIs for design tasks.
 - Demonstrate AI integration in design workflows.
 - Conduct experiments showcasing AI applications in design.
 
+---
 
 ### Research Approach
 Adopting a "Research through Design" method, the project explores AI tools across various domains, leading to the creation of custom AI applications and a near real-time rendering engine.
+
+---
 
 ### Key Experiments
 - Creating custom GPT models.
 - Training custom image models with Stable Diffusion.
 - AI-enhanced visualization in 3D modeling.
 
+---
+
 ### Tools and Technologies
 The project uses hardware like Nvidia RTX 3080 and software including Rhinoceros 7 and Grasshopper, along with various AI platforms.
+
+---
 
 ### Links
 1. Repository: https://github.com/calluxpore/AI-Enhanced-Real-time-Algorithm-for-Streamlined-Rendering-in-a-3D-Modeling-workflow-AIR-STREaM-
@@ -47,6 +56,8 @@ LoRA Parameters:
 - Size: 512x512
 - Model: sdxlInkpunkstyle_v01,  
 - Version: v1.7.0
+
+---
 
 ### Acknowledgements
 Special thanks to Professor Alexis Morris and Professor Fidelia Lam of the Faculty of Arts & Science at OCAD University for their guidance and support throughout the exploration and development of this project.
